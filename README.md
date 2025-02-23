@@ -1,7 +1,7 @@
 
 # JuryNova
 
-Revolutionizing Hackathon Judging with AI-Powered Insights
+Revolutionizing Hackathon Judging with AI Agents
 
 <div align="center">
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Python"></a>
