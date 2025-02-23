@@ -185,4 +185,3 @@ TailwindCSS
 DaisyUI
 ```
 
-Feel free to modify as per your requirements!
